@@ -482,6 +482,9 @@ body{
 .sec6 .container .box2 form h2{
     font-size: 2rem;
 }
+.send a {
+            text-decoration: none;
+        }
 /*------!contact Me section-----------*/
 
 
