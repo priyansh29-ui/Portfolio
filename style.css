@@ -230,7 +230,7 @@ p {
 	margin: 2em 1em;
 	white-space: nowrap;
 	overflow: hidden;
-	-webkit-animation: typing 7s steps(21, end),
+	-webkit-animation: typing 7s steps(200, end),
 	           blink-caret .5s step-end infinite alternate;
 }
 .sec2 .container .content{
