@@ -226,11 +226,11 @@ p {
 	font: bold 300% Consolas, Monaco, monospace;
 	border-right: .1em solid black;
 	width: 16.5em; 
-	width: 21ch;
+	width: 220ch;
 	margin: 2em 1em;
 	white-space: nowrap;
 	overflow: hidden;
-	-webkit-animation: typing 7s steps(200, end),
+	-webkit-animation: typing 7s steps(220, end),
 	           blink-caret .5s step-end infinite alternate;
 }
 .sec2 .container .content{
