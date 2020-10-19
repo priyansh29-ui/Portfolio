@@ -219,7 +219,8 @@ body{
     padding: 2rem;
     margin-top: 5rem;
 }
-@-webkit-keyframes typing { from { width: 0; } }
+
+/*@-webkit-keyframes typing { from { width: 0; } }
 @-webkit-keyframes blink-caret { 50% { border-color: transparent; } }
 
 p { 
@@ -232,7 +233,7 @@ p {
 	overflow: hidden;
 	-webkit-animation: typing 7s steps(220, end),
 	           blink-caret .5s step-end infinite alternate;
-}
+}*/
 .sec2 .container .content{
     max-width: 45%;
     height: 40rem;
